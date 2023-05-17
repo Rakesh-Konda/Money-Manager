@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  height: 20vh;
+  width: 700px;
+  padding: 10px;
+  margin: 15px;
+}
+.span {
+  color: #0b69ff;
+}
+.sel {
+  display: flex;
+  flex-direction: column;
+}
+.butt {
+  margin-top: 10px;
+  width: 50px;
+}
+.side {
+  display: flex;
+}

@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.img {
+  width: 30px;
+  height: 30px;
+  margin-top: 20px;
+}
+.butt {
+  background-color: blue;
+  color: white;
+}
+.bal {
+  background-color: #ecfccb;
+  width: 150px;
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid #84cc16;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.bal1 {
+  background-color: #cffafe;
+  width: 150px;
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid #06b6d4;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.bal2 {
+  background-color: #ede9fe;
+  width: 150px;
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid #7c3aed;
+  border-radius: 10px;
+  margin: 10px;
+}
+.div {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px;
+}

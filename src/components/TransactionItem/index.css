@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.dd {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+.inp {
+  width: 200px;
+}
+.bbb {
+  background-color: transparent;
+  border: 0px solid transparent;
+}
+.tra {
+  border: 1px solid black;
+  width: 300px;
+  padding: 10px;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+.kl {
+  border: 1px solid black;
+  width: 300px;
+  padding: 10px;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+.pm {
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid black;
+}
+.immm {
+  height: 20px;
+  width: 20px;
+  margin-top: 20px;
+}
+.ul {
+  list-style-type: none;
+}
+.lii {
+  display: flex;
+  justify-content: space-around;
+  margin-right: 30px;
+  border-bottom: 1px solid black;
+}
